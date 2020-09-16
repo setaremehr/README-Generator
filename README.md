@@ -11,4 +11,3 @@ Generate a README.md using answers to prompts and data from the environment, lik
 
 
 
-![Untitled_ Sep 16, 2020 4_06 PM](https://user-images.githubusercontent.com/66357101/93402965-0e9ab400-f83b-11ea-81e3-a32301219f54.gif)
