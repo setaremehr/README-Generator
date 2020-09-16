@@ -8,7 +8,7 @@ const questions = [
   {
     type: 'input',
     message: 'what is your GitHub username?',
-    name: 'Username'
+    name: 'UserName'
   },
   {
     type: 'input',
@@ -17,7 +17,7 @@ const questions = [
   },
   {
     type: 'input',
-    message: 'What is the title for your project?',
+    message: 'What is the title of your project?',
     name: 'Title',
   },
   {
