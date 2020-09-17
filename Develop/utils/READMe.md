@@ -1,9 +1,10 @@
 
 
-# setaremehr
-# weatherApp
+# GitHub Username: **setaremehr**
 
-# Description
+## Project Name: weatherApp
+
+## Description
 
 this is a weather application
 
@@ -15,9 +16,9 @@ this is a weather application
 * [Tests](#tests)
 * [Questions](#questions)
 ## Installation
-To install necessary dependencies, run the following command: NA
+To install necessary dependencies, run the following command: nothing
 ## Usage
-​This application is used for NA
+​This application is used for ss
 ## License
 This project is license under the MIT license.
 ## Contributing

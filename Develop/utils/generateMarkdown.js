@@ -1,10 +1,11 @@
 function generateMarkdown(data, userDetails) {
   return `
 
-# ${data.UserName}
-# ${data.Title}
+# GitHub Username: **${data.UserName}**
 
-# Description
+## Project Name: ${data.Title}
+
+## Description
 
 ${data.Description}
 
